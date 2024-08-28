@@ -18,7 +18,7 @@ This project aims to identify whether an image is of a laptop or a mobile device
    - The dataset should be structured such that each category (laptop or mobile) has its own subfolder containing respective images.
 
 2. Model Training:
-   - Use the Jupyter notebook provided (`project-2.ipynb`) to run the model training steps.
+   - Use the Jupyter notebook provided (`project-1.ipynb`) to run the model training steps.
    - The notebook guides you through loading the data, preprocessing it, and training the Neural Network.
 
 3. Model Prediction:
@@ -44,5 +44,5 @@ pip install tensorflow opencv-python numpy pillow
 2. Start Jupyter Notebook:
    jupyter notebook
 
-3. Open `project-2.ipynb` and follow the instructions to train the model and make predictions.
+3. Open `project-1.ipynb` and follow the instructions to train the model and make predictions.
 

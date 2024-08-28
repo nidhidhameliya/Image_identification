@@ -44,5 +44,5 @@ pip install tensorflow opencv-python numpy pillow
 2. Start Jupyter Notebook:
    jupyter notebook
 
-3. Open `notebook.ipynb` and follow the instructions to train the model and make predictions.
+3. Open `project-2.ipynb` and follow the instructions to train the model and make predictions.
 

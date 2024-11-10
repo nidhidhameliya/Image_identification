@@ -38,7 +38,7 @@ pip install tensorflow opencv-python numpy pillow
 ## Usage
 
 1. Clone the repository:
-   git clone https://github.com/nidhidhameliya/image_identification.git
+   git clone https://github.com/nidhidhameliya/Image_identification/tree/my-new-branch
    cd image_identification
 
 2. Start Jupyter Notebook:
